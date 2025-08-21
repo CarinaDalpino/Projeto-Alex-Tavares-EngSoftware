@@ -1,4 +1,4 @@
-# Historia do Git 
+# História do Git 
 
 O Git é um sistema de controle de versão distribuído criado por Linus Torvalds em 2005, inicialmente para gerenciar o desenvolvimento do kernel do Linux. Antes do Git, o projeto Linux usava o BitKeeper, mas devido a questões de licença, foi necessário criar uma alternativa livre.
 
